@@ -4,7 +4,7 @@
 Mobile Developer (Android & Flutter)
 
 [![Github](https://img.shields.io/github/followers/phanbaohuy96?style=social)](https://github.com/phanbaohuy96)
-[![Github](https://img.shields.io/github/last-commit/phanbaohuy96/phanbaohuy96)](https://github.com/phanbaohuy96/phanbaohuy96)
+[![Github](https://img.shields.io/github/last-commit/phanbaohuy96)](https://github.com/phanbaohuy96)
 [![Github](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=social)](https://github.com/phanbaohuy96/flutter_base_structure)
 [![Github](https://img.shields.io/github/watchers/phanbaohuy96/phanbaohuy96?style=social)](https://github.com/phanbaohuy96/phanbaohuy96)
 
