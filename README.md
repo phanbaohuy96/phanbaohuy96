@@ -11,7 +11,7 @@ Mobile Developer (Android & Flutter)
 
 ## Skills
 
-- Crossplatform mobile with Flutter 
+- Crossplatform mobile with Flutter
 
 - Native App Android With Kotlin
 
