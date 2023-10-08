@@ -17,7 +17,7 @@ Mobile Developer (Android & Flutter)
 
 - Build codebase clean architecture, MVVM, Reactive Programming
 
-- Unit test, UI testing and integration test
+- Unit test, UI testing, and integration test
 
 
 ## Connect sociales
