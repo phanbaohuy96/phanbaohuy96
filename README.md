@@ -12,8 +12,11 @@ Mobile Developer (Android & Flutter)
 ## Skills
 
 **Cross-Platform Mobile Development**: Proficient in building seamless mobile experiences using Flutter, allowing for simultaneous deployment on both iOS and Android platforms.
+
 **Native Android App Development**: Skilled in crafting high-performance Android apps using Kotlin, leveraging the language's concise syntax and modern features.
+
 **Clean Architecture & Design Patterns**: Well-versed in implementing Clean Architecture, MVVM, and Reactive Programming principles to ensure maintainable, scalable, and efficient codebases.
+
 **Comprehensive Testing**: Experienced in writing unit tests, UI tests, and integration tests to guarantee robust and reliable applications.
 
 
