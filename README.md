@@ -16,9 +16,9 @@
 
 **Clean Architecture & Design Patterns**: Well-versed in implementing Clean Architecture, MVVM, and Reactive Programming principles to ensure maintainable, scalable, and efficient codebases.
 
-**Comprehensive Testing**: Experienced in writing unit tests, UI tests, and integration tests to guarantee robust and reliable applications.
+**Comprehensive Testing**: Experienced in writing unit, UI, and integration tests to guarantee robust and reliable applications.
 
-**Tools**: Developing utility tools and scripts that automate and streamline the coding process, enabling faster and more efficient distribution of code.
+**Tools**: Developing utility tools and scripts that automate and streamline the coding process, enabling faster and more efficient code distribution.
 
 ## Tech Stack:
 
