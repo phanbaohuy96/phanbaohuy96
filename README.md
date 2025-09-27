@@ -12,6 +12,8 @@
 
 **Cross-Platform Mobile Development**: Proficient in building seamless mobile experiences using Flutter, allowing for simultaneous deployment on both iOS and Android platforms.
 
+**Flutter Web Development**: Experienced in extending Flutter applications to the web platform, creating responsive and performant web applications with shared codebases across mobile and web.
+
 **Native Android App Development**: Skilled in crafting high-performance Android apps using Kotlin, leveraging the language's concise syntax and modern features.
 
 **Clean Architecture & Design Patterns**: Well-versed in implementing Clean Architecture, MVVM, and Reactive Programming principles to ensure maintainable, scalable, and efficient codebases.
@@ -39,8 +41,17 @@
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
+[![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flutter.dev/web)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+
+**DevOps & Infrastructure**
+
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker Compose](https://img.shields.io/badge/Docker--Compose-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
+[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
+[![K8s ConfigMap](https://img.shields.io/badge/K8s%20ConfigMap-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/concepts/configuration/configmap/)
 
 **Others**
 
