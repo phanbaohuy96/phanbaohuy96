@@ -1,67 +1,60 @@
 # Hello, ImHuy.
 
-**Mobile Developer**
- 
-[![Github](https://img.shields.io/github/followers/phanbaohuy96?style=social)](https://github.com/phanbaohuy96)
-[![Github](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=social)](https://github.com/phanbaohuy96/flutter_base_structure)
-[![Github](https://img.shields.io/github/watchers/phanbaohuy96/phanbaohuy96?style=social)](https://github.com/phanbaohuy96/phanbaohuy96)
-[![Github](https://img.shields.io/github/last-commit/phanbaohuy96/phanbaohuy96)](https://github.com/phanbaohuy96/phanbaohuy96/phanbaohuy96)
+**Mobile Engineer · AI-native apps & agent tooling**
 
+## Featured projects
 
-## Skills
+| Project | What it is | Stack |
+|---|---|---|
+| [flutter_base_structure](https://github.com/phanbaohuy96/flutter_base_structure) ![](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=flat&label=%E2%98%85&color=grey) | Opinionated Flutter monorepo template: multi-flavor builds, clean architecture (BLoC + Freezed + Injectable), codegen, localization, and bundled AI coding-agent guidance | Dart · Flutter |
+| [in-app-mcp](https://github.com/phanbaohuy96/in-app-mcp) ![](https://img.shields.io/github/stars/phanbaohuy96/in-app-mcp?style=flat&label=%E2%98%85&color=grey) | Policy-gated tool runtime for in-app LLM agents: per-tool auto / confirm / deny, preview, audit, and undo. Works with any LLM provider | Dart |
+| [android-base-structure](https://github.com/phanbaohuy96/android-base-structure) ![](https://img.shields.io/github/stars/phanbaohuy96/android-base-structure?style=flat&label=%E2%98%85&color=grey) | Clone-to-start Android template: Jetpack Compose, Material 3, MVVM/UDF, Hilt, Retrofit, Room, and type-safe navigation | Kotlin · Compose |
+| [loadout](https://github.com/phanbaohuy96/loadout) ![](https://img.shields.io/github/stars/phanbaohuy96/loadout?style=flat&label=%E2%98%85&color=grey) | The skills I carry into every AI coding session with Claude Code, Codex, and Grok | Python |
 
-**Cross-Platform Mobile Development**: Proficient in building seamless mobile experiences using Flutter, allowing for simultaneous deployment on both iOS and Android platforms.
+## What I work on
 
-**Flutter Web Development**: Experienced in extending Flutter applications to the web platform, creating responsive and performant web applications with shared codebases across mobile and web.
+- Cross-platform apps with Flutter, on mobile and web
+- Native Android with Kotlin and Jetpack Compose
+- AI inside apps: agent tool runtimes, on-device OCR, and LLM pipelines
+- Templates and tooling that help teams ship faster
 
-**Native Android App Development**: Skilled in crafting high-performance Android apps using Kotlin, leveraging the language's concise syntax and modern features.
-
-**Clean Architecture & Design Patterns**: Well-versed in implementing Clean Architecture, MVVM, and Reactive Programming principles to ensure maintainable, scalable, and efficient codebases.
-
-**Comprehensive Testing**: Experienced in writing unit, UI, and integration tests to guarantee robust and reliable applications.
-
-**Tools**: Developing utility tools and scripts that automate and streamline the coding process, enabling faster and more efficient code distribution.
-
-## Tech Stack:
-
-**Programming Languages**
-
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-
-**Frameworks and Libraries**
-
+**Mobile**
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)](https://graphql.org/)
-
-**Platforms and Services**
-
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
-[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://www.apple.com/ios/)
-[![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flutter.dev/web)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)](https://firebase.google.com/)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 
-**DevOps & Infrastructure**
+**AI**
+[![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/)
+[![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
+**Infra**
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Docker Compose](https://img.shields.io/badge/Docker--Compose-0db7ed?style=for-the-badge&logo=docker&logoColor=white)](https://docs.docker.com/compose/)
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/)
-[![Argo CD](https://img.shields.io/badge/Argo%20CD-FC6D26?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
-[![K8s ConfigMap](https://img.shields.io/badge/K8s%20ConfigMap-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/concepts/configuration/configmap/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
 
-**Others**
+## GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![GitHub CI/CD](https://img.shields.io/badge/GitHub%20CI/CD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)
-
-## GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=phanbaohuy96&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com/?user=phanbaohuy96&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com/?user=phanbaohuy96&hide_border=true"
+  />
+  <img
+    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com/?user=phanbaohuy96&hide_border=true"
+  />
+</picture>
 
 <picture>
   <source
@@ -78,18 +71,9 @@
   />
 </picture>
 
+## Connect
 
-## Connect sociales
-
-<a href="https://www.linkedin.com/in/huy-b%E1%BA%A3o-b072131b6/">
-  <img align="left" alt="Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/phanbaohuy96/">
-  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
-</a>
-<a href="https://t.me/pbh96">
-  <img align="left" alt="Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png"/>
-</a>
-<a href="mailto:baohuy.phan1996@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=googlechrome&logoColor=white)](https://phanbaohuy96.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHRpdGxlPkxpbmtlZEluIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D)](https://www.linkedin.com/in/huy-b%E1%BA%A3o-b072131b6/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pbh96)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baohuy.phan1996@gmail.com)
