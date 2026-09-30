@@ -7,8 +7,8 @@
 | Project | What it is |
 |---|---|
 | [flutter_base_structure](https://github.com/phanbaohuy96/flutter_base_structure)<br>![](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=flat&label=%E2%98%85&color=grey) | Opinionated Flutter monorepo template: multi-flavor builds, clean architecture (BLoC + Freezed + Injectable), codegen, localization, and bundled AI coding-agent guidance<br><sub>Dart · Flutter</sub> |
-| [in-app-mcp](https://github.com/phanbaohuy96/in-app-mcp)<br>![](https://img.shields.io/github/stars/phanbaohuy96/in-app-mcp?style=flat&label=%E2%98%85&color=grey) | Policy-gated tool runtime for in-app LLM agents: per-tool auto / confirm / deny, preview, audit, and undo. Works with any LLM provider<br><sub>Dart</sub> |
-| [android-base-structure](https://github.com/phanbaohuy96/android-base-structure)<br>![](https://img.shields.io/github/stars/phanbaohuy96/android-base-structure?style=flat&label=%E2%98%85&color=grey) | Clone-to-start Android template: Jetpack Compose, Material 3, MVVM/UDF, Hilt, Retrofit, Room, and type-safe navigation<br><sub>Kotlin · Compose</sub> |
+| [in&#8209;app&#8209;mcp](https://github.com/phanbaohuy96/in-app-mcp)<br>![](https://img.shields.io/github/stars/phanbaohuy96/in-app-mcp?style=flat&label=%E2%98%85&color=grey) | Policy-gated tool runtime for in-app LLM agents: per-tool auto / confirm / deny, preview, audit, and undo. Works with any LLM provider<br><sub>Dart</sub> |
+| [android&#8209;base&#8209;structure](https://github.com/phanbaohuy96/android-base-structure)<br>![](https://img.shields.io/github/stars/phanbaohuy96/android-base-structure?style=flat&label=%E2%98%85&color=grey) | Clone-to-start Android template: Jetpack Compose, Material 3, MVVM/UDF, Hilt, Retrofit, Room, and type-safe navigation<br><sub>Kotlin · Compose</sub> |
 | [loadout](https://github.com/phanbaohuy96/loadout)<br>![](https://img.shields.io/github/stars/phanbaohuy96/loadout?style=flat&label=%E2%98%85&color=grey) | The skills I carry into every AI coding session with Claude Code, Codex, and Grok<br><sub>Python</sub> |
 
 ## What I work on
