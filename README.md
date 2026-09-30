@@ -63,6 +63,22 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phanbaohuy96&show_icons=true&include_all_commits=true&count_private=true&orgs=true)
 
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/phanbaohuy96/phanbaohuy96/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/phanbaohuy96/phanbaohuy96/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/phanbaohuy96/phanbaohuy96/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
 ## Connect sociales
 
 <a href="https://www.linkedin.com/in/huy-b%E1%BA%A3o-b072131b6/">
