@@ -4,12 +4,12 @@
 
 ## Featured projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [flutter_base_structure](https://github.com/phanbaohuy96/flutter_base_structure) ![](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=flat&label=%E2%98%85&color=grey) | Opinionated Flutter monorepo template: multi-flavor builds, clean architecture (BLoC + Freezed + Injectable), codegen, localization, and bundled AI coding-agent guidance | Dart · Flutter |
-| [in-app-mcp](https://github.com/phanbaohuy96/in-app-mcp) ![](https://img.shields.io/github/stars/phanbaohuy96/in-app-mcp?style=flat&label=%E2%98%85&color=grey) | Policy-gated tool runtime for in-app LLM agents: per-tool auto / confirm / deny, preview, audit, and undo. Works with any LLM provider | Dart |
-| [android-base-structure](https://github.com/phanbaohuy96/android-base-structure) ![](https://img.shields.io/github/stars/phanbaohuy96/android-base-structure?style=flat&label=%E2%98%85&color=grey) | Clone-to-start Android template: Jetpack Compose, Material 3, MVVM/UDF, Hilt, Retrofit, Room, and type-safe navigation | Kotlin · Compose |
-| [loadout](https://github.com/phanbaohuy96/loadout) ![](https://img.shields.io/github/stars/phanbaohuy96/loadout?style=flat&label=%E2%98%85&color=grey) | The skills I carry into every AI coding session with Claude Code, Codex, and Grok | Python |
+| Project | What it is |
+|---|---|
+| [**flutter_base_structure**](https://github.com/phanbaohuy96/flutter_base_structure)<br>![](https://img.shields.io/github/stars/phanbaohuy96/flutter_base_structure?style=flat&label=%E2%98%85&color=grey) <sub>Dart · Flutter</sub> | Opinionated Flutter monorepo template: multi-flavor builds, clean architecture (BLoC + Freezed + Injectable), codegen, localization, and bundled AI coding-agent guidance |
+| [**in-app-mcp**](https://github.com/phanbaohuy96/in-app-mcp)<br>![](https://img.shields.io/github/stars/phanbaohuy96/in-app-mcp?style=flat&label=%E2%98%85&color=grey) <sub>Dart</sub> | Policy-gated tool runtime for in-app LLM agents: per-tool auto / confirm / deny, preview, audit, and undo. Works with any LLM provider |
+| [**android-base-structure**](https://github.com/phanbaohuy96/android-base-structure)<br>![](https://img.shields.io/github/stars/phanbaohuy96/android-base-structure?style=flat&label=%E2%98%85&color=grey) <sub>Kotlin · Compose</sub> | Clone-to-start Android template: Jetpack Compose, Material 3, MVVM/UDF, Hilt, Retrofit, Room, and type-safe navigation |
+| [**loadout**](https://github.com/phanbaohuy96/loadout)<br>![](https://img.shields.io/github/stars/phanbaohuy96/loadout?style=flat&label=%E2%98%85&color=grey) <sub>Python</sub> | The skills I carry into every AI coding session with Claude Code, Codex, and Grok |
 
 ## What I work on
 
@@ -18,7 +18,7 @@
 - AI inside apps: agent tool runtimes, on-device OCR, and LLM pipelines
 - Templates and tooling that help teams ship faster
 
-**Mobile**
+**Mobile**<br>
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
@@ -26,13 +26,13 @@
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/)
 [![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)](https://developer.apple.com/ios/)
 
-**AI**
+**AI**<br>
 [![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/)
 [![MCP](https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white)](https://modelcontextprotocol.io/)
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**Infra**
+**Infra**<br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://cloud.google.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
@@ -40,6 +40,8 @@
 [![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)](https://argo-cd.readthedocs.io/)
 
 ## GitHub Stats
+
+<div align="center">
 
 <picture>
   <source
@@ -70,6 +72,8 @@
     src="https://raw.githubusercontent.com/phanbaohuy96/phanbaohuy96/output/github-contribution-grid-snake.svg"
   />
 </picture>
+
+</div>
 
 ## Connect
 
